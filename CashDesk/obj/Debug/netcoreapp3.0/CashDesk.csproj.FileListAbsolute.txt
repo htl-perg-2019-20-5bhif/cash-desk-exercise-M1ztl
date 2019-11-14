@@ -1,0 +1,8 @@
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+C:\Users\Lukas\Documents\HTL\5BHIF\c#_Mobile_Computing\Cash_desk\cash-desk-exercise-M1ztl\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
